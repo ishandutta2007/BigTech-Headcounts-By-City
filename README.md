@@ -22,6 +22,8 @@ This repository provides updated estimations and data metrics on software engine
 
 Whether you are analyzing tech talent density, regional hiring trends, or evaluating major tech hubs for career growth and compensation benchmarks, this dataset offers regional insights into engineering capital.
 
+Interested in updating headcount numbers or contributing to future releases? Check out our [Contribution Guide](CONTRIBUTING.md).
+
 ---
 
 ## 🇺🇸 USA Tech Hubs: Estimated Core Engineering & R&D 🚀
