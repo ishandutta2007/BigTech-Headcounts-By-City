@@ -3,17 +3,19 @@ import os
 import re
 from glob import glob
 
+DATA_DIR = "data"
 README_PATH = "README.md"
 
 def find_latest_year_json():
-    files = glob("headcounts_*.json")
+    pattern = os.path.join(DATA_DIR, "headcounts_*.json")
+    files = glob(pattern)
     years = []
     for f in files:
         match = re.search(r"headcounts_(\d{4})\.json", f)
         if match:
             years.append((int(match.group(1)), f))
     if not years:
-        raise FileNotFoundError("No headcount JSON files found (expected headcounts_YYYY.json).")
+        raise FileNotFoundError(f"No headcount JSON files found in '{DATA_DIR}' directory (expected headcounts_YYYY.json).")
     years.sort(key=lambda x: x[0], reverse=True)
     return years[0]
 
