@@ -28,7 +28,7 @@ Whether you are analyzing tech talent density, regional hiring trends, or evalua
 
 | Tech Hub Region 📍 | Google 🔍 | Amazon 📦 | Microsoft 💻 | Apple 🍎 | Meta ♾️ | Adobe 🎨 | Row Total 📊 |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **San Francisco Bay Area, CA**<br>*(SF/Silicon Valley)* 🌉 | 28,000+ | 8,000+ | 4,500+ | 32,000+ | 22,000+ | 7,000+ | **101,500+** |
+| **San Francisco Bay Area, CA**<br>*(SF/Silicon Valley)* 🌉 | 28,000+ | 8,000+ | 4,500+ | 32,000+ | 23,000+ | 7,000+ | **101,500+** |
 | **Greater Seattle, WA**<br>*(Puget Sound)* 🌲 | 6,500+ | 35,000+ | 38,000+ | 2,500+ | 6,000+ | 1,000+ | **89,000+** |
 | **New York City Metro, NY**<br>*(Manhattan)* 🗽 | 7,500+ | 4,500+ | 2,000+ | 1,000+ | 5,000+ | 800+ | **20,800+** |
 | **Austin, TX**<br>*(Silicon Hills)* 🤠 | 1,800+ | 2,500+ | 1,200+ | 5,000+ | 1,200+ | 300+ | **12,000+** |
