@@ -1,0 +1,79 @@
+[
+  {
+    "region": "San Francisco Bay Area, CA",
+    "subtext": "(SF/Silicon Valley)",
+    "google": "28,000+",
+    "amazon": "8,000+",
+    "microsoft": "4,500+",
+    "apple": "32,000+",
+    "meta": "22,000+",
+    "adobe": "7,000+",
+    "total": "101,500+"
+  },
+  {
+    "region": "Greater Seattle, WA",
+    "subtext": "(Puget Sound)",
+    "google": "6,500+",
+    "amazon": "35,000+",
+    "microsoft": "38,000+",
+    "apple": "2,500+",
+    "meta": "6,000+",
+    "adobe": "1,000+",
+    "total": "89,000+"
+  },
+  {
+    "region": "New York City Metro, NY",
+    "subtext": "(Manhattan)",
+    "google": "7,500+",
+    "amazon": "4,500+",
+    "microsoft": "2,000+",
+    "apple": "1,000+",
+    "meta": "5,000+",
+    "adobe": "800+",
+    "total": "20,800+"
+  },
+  {
+    "region": "Austin, TX",
+    "subtext": "(Silicon Hills)",
+    "google": "1,800+",
+    "amazon": "2,500+",
+    "microsoft": "1,200+",
+    "apple": "5,000+",
+    "meta": "1,200+",
+    "adobe": "300+",
+    "total": "12,000+"
+  },
+  {
+    "region": "Greater Boston, MA",
+    "subtext": "(AI/Robotics)",
+    "google": "2,200+",
+    "amazon": "2,500+",
+    "microsoft": "2,000+",
+    "apple": "600+",
+    "meta": "1,500+",
+    "adobe": "400+",
+    "total": "9,200+"
+  },
+  {
+    "region": "Washington, D.C. Metro",
+    "subtext": "(HQ2/NoVA)",
+    "google": "800+",
+    "amazon": "6,000+",
+    "microsoft": "1,800+",
+    "apple": "300+",
+    "meta": "500+",
+    "adobe": "200+",
+    "total": "9,600+"
+  },
+  {
+    "region": "Southern California",
+    "subtext": "(LA/San Diego)",
+    "google": "2,000+",
+    "amazon": "2,000+",
+    "microsoft": "800+",
+    "apple": "2,500+",
+    "meta": "1,200+",
+    "adobe": "300+",
+    "total": "8,800+"
+  }
+]

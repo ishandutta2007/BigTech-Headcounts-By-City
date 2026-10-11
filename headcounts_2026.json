@@ -1,0 +1,151 @@
+{
+  "year": 2026,
+  "usa": [
+    {
+      "region": "San Francisco Bay Area, CA",
+      "subtext": "(SF/Silicon Valley)",
+      "emoji": "🌉",
+      "google": "28,000+",
+      "amazon": "8,000+",
+      "microsoft": "4,500+",
+      "apple": "32,000+",
+      "meta": "22,000+",
+      "adobe": "7,000+",
+      "total": "101,500+"
+    },
+    {
+      "region": "Greater Seattle, WA",
+      "subtext": "(Puget Sound)",
+      "emoji": "🌲",
+      "google": "6,500+",
+      "amazon": "35,000+",
+      "microsoft": "38,000+",
+      "apple": "2,500+",
+      "meta": "6,000+",
+      "adobe": "1,000+",
+      "total": "89,000+"
+    },
+    {
+      "region": "New York City Metro, NY",
+      "subtext": "(Manhattan)",
+      "emoji": "🗽",
+      "google": "7,500+",
+      "amazon": "4,500+",
+      "microsoft": "2,000+",
+      "apple": "1,000+",
+      "meta": "5,000+",
+      "adobe": "800+",
+      "total": "20,800+"
+    },
+    {
+      "region": "Austin, TX",
+      "subtext": "(Silicon Hills)",
+      "emoji": "🤠",
+      "google": "1,800+",
+      "amazon": "2,500+",
+      "microsoft": "1,200+",
+      "apple": "5,000+",
+      "meta": "1,200+",
+      "adobe": "300+",
+      "total": "12,000+"
+    },
+    {
+      "region": "Greater Boston, MA",
+      "subtext": "(AI/Robotics)",
+      "emoji": "🎓",
+      "google": "2,200+",
+      "amazon": "2,500+",
+      "microsoft": "2,000+",
+      "apple": "600+",
+      "meta": "1,500+",
+      "adobe": "400+",
+      "total": "9,200+"
+    },
+    {
+      "region": "Washington, D.C. Metro",
+      "subtext": "(HQ2/NoVA)",
+      "emoji": "🏛️",
+      "google": "800+",
+      "amazon": "6,000+",
+      "microsoft": "1,800+",
+      "apple": "300+",
+      "meta": "500+",
+      "adobe": "200+",
+      "total": "9,600+"
+    },
+    {
+      "region": "Southern California",
+      "subtext": "(LA/San Diego)",
+      "emoji": "🌴",
+      "google": "2,000+",
+      "amazon": "2,000+",
+      "microsoft": "800+",
+      "apple": "2,500+",
+      "meta": "1,200+",
+      "adobe": "300+",
+      "total": "8,800+"
+    }
+  ],
+  "india": [
+    {
+      "region": "Bengaluru, KA",
+      "subtext": "(Primary R&D)",
+      "emoji": "🌆",
+      "google": "4,000+",
+      "amazon": "6,500+",
+      "microsoft": "3,000+",
+      "apple": "1,000+",
+      "meta": "~100",
+      "adobe": "2,500+",
+      "total": "17,100+"
+    },
+    {
+      "region": "Hyderabad, TS",
+      "subtext": "(IDC Infrastructure)",
+      "emoji": "🏰",
+      "google": "1,000+",
+      "amazon": "8,000+",
+      "microsoft": "13,000+",
+      "apple": "1,500+",
+      "meta": "~150",
+      "adobe": "—",
+      "total": "23,800+"
+    },
+    {
+      "region": "NCR",
+      "subtext": "(Noida/Gurugram)",
+      "emoji": "🏙️",
+      "google": "—",
+      "amazon": "—",
+      "microsoft": "1,000+",
+      "apple": "—",
+      "meta": "—",
+      "adobe": "3,500+",
+      "total": "4,500+"
+    },
+    {
+      "region": "Pune, MH",
+      "subtext": "(Cloud/Infra)",
+      "emoji": "⛰️",
+      "google": "400+",
+      "amazon": "2,000+",
+      "microsoft": "400+",
+      "apple": "—",
+      "meta": "—",
+      "adobe": "—",
+      "total": "2,800+"
+    },
+    {
+      "region": "Chennai, TN",
+      "subtext": "(Global Delivery)",
+      "emoji": "🌊",
+      "google": "—",
+      "amazon": "3,000+",
+      "microsoft": "300+",
+      "apple": "100+",
+      "meta": "—",
+      "adobe": "—",
+      "total": "3,400+"
+    }
+  ]
+}

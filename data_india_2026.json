@@ -1,0 +1,57 @@
+[
+  {
+    "region": "Bengaluru, KA",
+    "subtext": "(Primary R&D)",
+    "google": "4,000+",
+    "amazon": "6,500+",
+    "microsoft": "3,000+",
+    "apple": "1,000+",
+    "meta": "~100",
+    "adobe": "2,500+",
+    "total": "17,100+"
+  },
+  {
+    "region": "Hyderabad, TS",
+    "subtext": "(IDC Infrastructure)",
+    "google": "1,000+",
+    "amazon": "8,000+",
+    "microsoft": "13,000+",
+    "apple": "1,500+",
+    "meta": "~150",
+    "adobe": "—",
+    "total": "23,800+"
+  },
+  {
+    "region": "NCR",
+    "subtext": "(Noida/Gurugram)",
+    "google": "—",
+    "amazon": "—",
+    "microsoft": "1,000+",
+    "apple": "—",
+    "meta": "—",
+    "adobe": "3,500+",
+    "total": "4,500+"
+  },
+  {
+    "region": "Pune, MH",
+    "subtext": "(Cloud/Infra)",
+    "google": "400+",
+    "amazon": "2,000+",
+    "microsoft": "400+",
+    "apple": "—",
+    "meta": "—",
+    "adobe": "—",
+    "total": "2,800+"
+  },
+  {
+    "region": "Chennai, TN",
+    "subtext": "(Global Delivery)",
+    "google": "—",
+    "amazon": "3,000+",
+    "microsoft": "300+",
+    "apple": "100+",
+    "meta": "—",
+    "adobe": "—",
+    "total": "3,400+"
+  }
+]
