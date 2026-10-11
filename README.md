@@ -48,7 +48,7 @@ Whether you are analyzing tech talent density, regional hiring trends, or evalua
 | **NCR**<br>*(Noida/Gurugram)* 🏙️ | — | — | 1,000+ | — | — | 3,500+ | **4,500+** |
 | **Pune, MH**<br>*(Cloud/Infra)* ⛰️ | 400+ | 2,000+ | 400+ | — | — | — | **2,800+** |
 | **Chennai, TN**<br>*(Global Delivery)* 🌊 | — | 3,000+ | 300+ | 100+ | — | — | **3,400+** |
-| **Column Total** 📈 | **5,400+** | **19,500+** | **17,700+** | **2,600+** | **~250** | **6,000+** | **51,600+** |
+| **Column Total** 📈 | **5,400+** | **19,500+** | **17,700+** | **2,600+** | **~250** | **6,000+** | **~51,450+** |
 
 ---
 
